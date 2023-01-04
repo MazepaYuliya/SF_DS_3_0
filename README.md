@@ -1,8 +1,8 @@
 # Data science
 
 ## Теория и практика
-* [1. Numpy](./Numpy_/README.md)
-* [1. Pandas](./Pandas_/README.md)
+* [Numpy](./Numpy_/README.md)
+* [Pandas](./Pandas_/README.md)
 
 
 ## Проекты
