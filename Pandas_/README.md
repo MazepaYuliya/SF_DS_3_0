@@ -3,7 +3,7 @@
 * [Введение в Pandas](./Pandas_info.ipynb)
 * [Подготовка данных](./Data_preparing.ipynb)
 * [Работа с данными](./Data_processing.ipynb)
-* [Визуализация данных](./Мшыгфдшяфешщт.ipynb)
+* [Визуализация данных](./Visualization.ipynb)
 
 Задачи:
 * [Оценки студентов](./tasks/studens_performance.ipynb)
