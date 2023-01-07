@@ -1,6 +1,8 @@
 # Введение в Pandas
 
-[Теория и примеры](./Pandas_info.ipynb)
+[Введение в Pandas](./Pandas_info.ipynb)
+[Подготовка данных](./Data_preparing_info.ipynb)
 
 Задачи:
-* [Проанализировать оценки студентов](./studens_performance.ipynb)
+* [Оценки студентов](./tasks/studens_performance.ipynb)
+* [Поездки на велосипеде](./tasks/citibike.ipynb)
