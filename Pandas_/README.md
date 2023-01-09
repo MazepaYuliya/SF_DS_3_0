@@ -6,7 +6,8 @@
 * [Визуализация данных](./Visualization.ipynb)
 
 Задачи:
-* [Оценки студентов](./tasks/studens_performance.ipynb)
-* [Поездки на велосипеде](./tasks/citibike.ipynb)
-* [Рейтинги фильмов](./tasks/rating_movies.ipynb)
-* [Заказы в интернет-магазине](./tasks/orders_and_products.ipynb)
+* [Введение в Pandas: оценки студентов](./tasks/studens_performance.ipynb)
+* [Подготовка данных: поездки на велосипеде](./tasks/citibike.ipynb)
+* [Работа с данными: Рейтинги фильмов](./tasks/rating_movies.ipynb)
+* [Работа с данными: заказы в интернет-магазине](./tasks/orders_and_products.ipynb)
+* [Визуализация: статистика по ковиду](./tasks/covid.ipynb)
