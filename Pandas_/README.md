@@ -11,3 +11,4 @@
 * [Работа с данными: Рейтинги фильмов](./tasks/rating_movies.ipynb)
 * [Работа с данными: заказы в интернет-магазине](./tasks/orders_and_products.ipynb)
 * [Визуализация: статистика по ковиду](./tasks/covid.ipynb)
+* [Визуализация: отток клиентов банка](./tasks/bank_churn.ipynb)
