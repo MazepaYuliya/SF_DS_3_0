@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+project_1_2/hh_database_cleaned.csv
+project_1_2/hh_database.csv
