@@ -29,11 +29,13 @@
 Компания HeadHunter хочет построить модель, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю, исходя из информации, которую он указал о себе. 
 
 Необходимо подготовить данные к построению модели.
+
 [Исходный датасет](https://drive.google.com/file/d/1VFq3EBs2hR4hDVfBZOTtU6RZPaC3ygaI/view?usp=share_link)
 
 
 ## Результат
 Результаты представлены в [блокноте](head_hunter.ipynb)
+
 [Обработанный датасет](https://drive.google.com/file/d/1_dnuJygRVvQTssR8X5rEiKxkbfmQFWuX/view?usp=share_link)
 
 ## Выводы
