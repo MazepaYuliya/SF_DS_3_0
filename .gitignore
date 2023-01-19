@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 project_1_2/hh_database_cleaned.csv
 project_1_2/hh_database.csv
+settings.py
