@@ -130,3 +130,11 @@ dmypy.json
 project_1_2/hh_database_cleaned.csv
 project_1_2/hh_database.csv
 settings.py
+delete.py
+.idea/IDE.iml
+.gitignore
+.idea/vcs.xml
+.idea/modules.xml
+.idea/misc.xml
+.idea/inspectionProfiles/profiles_settings.xml
+__init__.py
