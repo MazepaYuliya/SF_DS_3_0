@@ -3,6 +3,7 @@
 ## Теория и практика
 * [Numpy](./Numpy_/README.md)
 * [Pandas](./Pandas_/README.md)
+* [EDA](./EDA_/README.md)
 * [Прочие полезные материалы](./Other_/README.md)
 
 
