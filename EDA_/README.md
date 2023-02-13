@@ -12,11 +12,16 @@
 * [Кодирование категориальных признаков](./feature_encoding.ipynb)
 * [Нормализация и стандартизация](./feature_normalization.ipynb)
 
-# Статистические тесты
+## Статистические тесты
 
 * [Проверка статистических гипотез](./statistic_tests.ipynb)
 * [A/B-тестирование](./a_b_tests.ipynb)
 * [Доверительные интервалы](./a_b_tests_confidence_interval.ipynb)
+
+## Проектирование экспериментов
+
+* [Проектирование экспериментов](./experiments_design.ipynb)
+* [Логирование в Comet](./medical_appointments_cometml.ipynb)
 
 ## Примеры
 
@@ -25,3 +30,5 @@
 * [Проверка статистических гипотез на данных о размерах мидий](./tasks/mussels.ipynb)
 * [Кумулятивные метрики A/B-тестов](./tasks/cumulativ_a_b.ipynb)
 * [Анализ эффективности A/B-тестов туристической фирмы](./tasks/a_b_tourism.ipynb)
+
+
