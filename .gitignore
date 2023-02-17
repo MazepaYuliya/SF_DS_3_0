@@ -138,3 +138,4 @@ delete.py
 .idea/misc.xml
 .idea/inspectionProfiles/profiles_settings.xml
 __init__.py
+EDA_/data/hotels.csv
