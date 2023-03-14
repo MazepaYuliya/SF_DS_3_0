@@ -1,12 +1,15 @@
 # Machine Learning
 
 * [ML. Введение](./ml_intro.ipynb)
-* [Регрессия](./regression.ipynb)
-* [Классификация](./classification.ipynb)
-* [Ассоциация](./association.ipynb)
-* [Кластеризация](./clustering.ipynb)
-* [Деревья решений](./decision_trees.ipynb)
-* [понижение размерности](./dimensionality_reduction.ipynb)
+* Обучение с учителем:
+    - [Регрессия](./regression.ipynb)
+    - [Классификация](./classification.ipynb)
+    - [Деревья решений](./decision_trees.ipynb)
+    - [Случайный лес](./random_forest.ipynb)
+* Обучение без учителя:
+    - [Кластеризация](./clustering.ipynb)
+    - [Ассоциация](./association.ipynb)
+    - [Понижение размерности](./dimensionality_reduction.ipynb)
 
 Практика
 
@@ -16,3 +19,6 @@
 * [Классификация оттока клиентов](./tasks/churn_classification.ipynb)
 * [Классификация по уровню заработка](./tasks/AdultClassification.ipynb)
 * [Деревья решений для классификации наличия диабета](./tasks/diabet_decision_trees.ipynb)
+* [Случайный лес для классификации наличия диабета](./tasks/diabet_random_forest.ipynb)
+* [Кластеризация покемонов](./tasks/pokemon_clusterization.ipynb)
+* [Визуализация кластеризации жилья](./tasks/airbnb_clustering_visualization.ipynb)
