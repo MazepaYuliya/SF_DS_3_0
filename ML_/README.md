@@ -8,8 +8,11 @@
     - [Случайный лес](./random_forest.ipynb)
 * Обучение без учителя:
     - [Кластеризация](./clustering.ipynb)
-    - [Ассоциация](./association.ipynb)
     - [Понижение размерности](./dimensionality_reduction.ipynb)
+    - [Ассоциация](./association.ipynb)
+* Оценка качества модели:
+    - [Валидация данных](./validation.ipynb)
+    - [Дисбаланс выборки](./unbalanced_dataset.ipynb)
 
 Практика
 
@@ -22,3 +25,4 @@
 * [Случайный лес для классификации наличия диабета](./tasks/diabet_random_forest.ipynb)
 * [Кластеризация покемонов](./tasks/pokemon_clusterization.ipynb)
 * [Визуализация кластеризации жилья](./tasks/airbnb_clustering_visualization.ipynb)
+* [Кластеризация покупателей](./tasks/customers_clustering.ipynb)
