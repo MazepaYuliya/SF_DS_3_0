@@ -6,6 +6,9 @@
 * [EDA](./EDA_/README.md)
 * [ML](./ML_/README.md)
 * [Прочие полезные материалы](./Other_/README.md)
+* [Математика](./Math_/README.md)
+* [Статистика](./Statistic_/README.md)
+
 
 
 ## Проекты
