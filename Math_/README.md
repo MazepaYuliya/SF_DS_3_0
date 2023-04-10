@@ -10,6 +10,7 @@
 ## Задания
 
 * [Матрицы](./tasks/matrix.ipynb)
+* [Обратные матрицы](./tasks/matrix_inverse.ipynb)
 
 
 
