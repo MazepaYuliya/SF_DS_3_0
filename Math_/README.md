@@ -4,8 +4,9 @@
 
 * [Основы](./basic.ipynb)
 * [Комбинаторика](./combinatorics.ipynb)
-* [Комбинаторика](./combinatorics.ipynb)
+* [Теория вероятностей](./probability.ipynb)
 * [Линейная алгебра](./linear_algebra.ipynb)
+* [Математический анализ](./math_analysis.ipynb)
 
 ## Задания
 
