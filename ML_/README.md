@@ -14,6 +14,7 @@
     - [Валидация данных](./validation.ipynb)
     - [Дисбаланс выборки](./unbalanced_dataset.ipynb)
     - [Недообучение, переобучение, утечка](./overfitting.ipynb)
+    - [Кривая обучения](./validation_curve.ipynb)
 
 Практика
 
@@ -27,3 +28,4 @@
 * [Кластеризация покемонов](./tasks/pokemon_clusterization.ipynb)
 * [Визуализация кластеризации жилья](./tasks/airbnb_clustering_visualization.ipynb)
 * [Кластеризация покупателей](./tasks/customers_clustering.ipynb)
+* [Валидация модели предсказания онлайн-покупок](./tasks/online_shoppers_intention.ipynb)
