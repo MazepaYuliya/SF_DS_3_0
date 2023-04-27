@@ -15,6 +15,14 @@
     - [Дисбаланс выборки](./unbalanced_dataset.ipynb)
     - [Недообучение, переобучение, утечка](./overfitting.ipynb)
     - [Кривая обучения](./validation_curve.ipynb)
+* Отбор и селекция признаков:
+    - [Кодирование признаков](./features_encoding.ipynb)
+    - [Обработка пропусков](./na_and_outliers_processing.ipynb)
+    - [Масштабирование](./scaling.ipynb)
+    - [Трансформации распределений признаков](./distribution_transformers.ipynb)
+    - [Даты и расстояния](./dates_and_distances.ipynb)    
+    - [Отбор признаков](./features_selection.ipynb)    
+    
 
 Практика
 
