@@ -22,6 +22,9 @@
     - [Трансформации распределений признаков](./distribution_transformers.ipynb)
     - [Даты и расстояния](./dates_and_distances.ipynb)    
     - [Отбор признаков](./features_selection.ipynb)    
+* [Гиперпараметры](./hyperparameters.ipynb)
+* Продвинутые методы машинного обучения:
+    - [Ансамблирование](./ensembles.ipynb)
     
 
 Практика
@@ -37,3 +40,5 @@
 * [Визуализация кластеризации жилья](./tasks/airbnb_clustering_visualization.ipynb)
 * [Кластеризация покупателей](./tasks/customers_clustering.ipynb)
 * [Валидация модели предсказания онлайн-покупок](./tasks/online_shoppers_intention.ipynb)
+* [Сравнение метрик для разных способов кодирования. Предсказание дохода](./tasks/income_prediction.ipynb)
+* [Подбор гиперпараметров. Предсказание биологического ответа молекул](./tasks/molecules.ipynb)
