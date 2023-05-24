@@ -25,6 +25,8 @@
 * [Гиперпараметры](./hyperparameters.ipynb)
 * Продвинутые методы машинного обучения:
     - [Ансамблирование](./ensembles.ipynb)
+    - [Пайплайны](./pipelines.ipynb)
+    - [Metrics learning](./metric_learning.ipynb)
     
 
 Практика
@@ -42,3 +44,5 @@
 * [Валидация модели предсказания онлайн-покупок](./tasks/online_shoppers_intention.ipynb)
 * [Сравнение метрик для разных способов кодирования. Предсказание дохода](./tasks/income_prediction.ipynb)
 * [Подбор гиперпараметров. Предсказание биологического ответа молекул](./tasks/molecules.ipynb)
+* [Metrics learning. Кластеризация покупателей](./tasks/metrics_learning.ipynb)
+* [Metrics learning. Кластризация. Кредитные карты](./tasks/credit_cards_metrics_learning.ipynb)
