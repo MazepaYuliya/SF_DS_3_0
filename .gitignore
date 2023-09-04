@@ -141,18 +141,9 @@ __init__.py
 EDA_/data/hotels.csv
 EDA_/data/Vienna.xls
 EDA_/data/Paris.xls
-.gitignore
-.gitignore
-.gitignore
-.gitignore
-.gitignore
 EDA_/data/Amsterdam.csv
-.gitignore
-.gitignore
 EDA_/data/London.xls
 EDA_/tasks/EDA_Project_3_model copy 3.ipynb
-.gitignore
-.gitignore
 EDA_/data/Amsterdam.xls
 EDA_/data/Barcelona.xls
 EDA_/data/Milan.xls
@@ -164,9 +155,8 @@ EDA_/tasks/EDA_Project_3_model copy 12_13.ipynb
 EDA_/tasks/EDA_Project_3_model.ipynb
 booking_4.ipynb
 booking_5.ipynb
-.gitignore
-.gitignore
-.gitignore
 tasks_to_delete/*
 test_projects/*
+aimasters/*
+AVITO/*
 to_study.ipynb
